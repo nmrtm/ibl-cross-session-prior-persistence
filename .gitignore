@@ -1,0 +1,12 @@
+# Generated parquet datasets
+*.pqt
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# Python cache files
+__pycache__/
+*.pyc
