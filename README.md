@@ -119,7 +119,7 @@ The next documentation and release steps are:
 
 **Repository maintained by:** [Namrata Muralidharan](https://github.com/nmrtm).
 
-**Original NMA project team — Horsing Around:** Gabriele Battaglia, Maryam Alabi, Namrata Muralidharan, Nirvan Jippan, Tony Shen, Xeniya Gvozdeva, Zohreh Rahmannejad, and Vanshika Sharma.
+**Original NMA project team — Horsing Around:** Namrata Muralidharan, Tony Shen, Xeniya Gvozdeva, Maryam Alabi, Nirvan Jippan, Gabriele Battaglia and Zohreh Rahmannejad.
 
 The project was developed during Neuromatch Academy Computational Neuroscience 2026, in the Each-Uisge Wormwood pod. Thanks to pod TA Kav Bandara and project TA Arun Kumar.
 
